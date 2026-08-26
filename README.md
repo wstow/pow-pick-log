@@ -6,15 +6,12 @@ website's word for it — not even the commissioner's.
 
 ## What gets published
 
-After every score sync, the pool server snapshots every **revealed** pick to this repo:
-
-- `seasons/<year>/week-NN.csv` — one file per week: entry, pick slot, team, and the
-  timestamp the pick was submitted.
-- `seasons/<year>/HEAD.md` — a summary page carrying the head hash of the site's
-  internal tamper-evident audit chain.
-
-A pick appears here at the same moment it becomes visible in the app — **when its game
-kicks off, never before**. Unrevealed picks stay secret, exactly as in the pool itself.
+A pick appears here once its game kicks off — the same moment it becomes visible in the
+app, never before. Since games kick off in waves (Thursday night, Sunday early, Sunday
+late, Sunday night, Monday night), each week's file grows across the week: every wave of
+reveals lands as its own commit, usually within minutes of kickoff. The commit history
+shows exactly which picks were public at each point. Unrevealed picks stay secret,
+exactly as in the pool itself.
 
 ## Why this exists
 

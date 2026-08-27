@@ -6,12 +6,23 @@ website's word for it — not even the commissioner's.
 
 ## What gets published
 
+- `seasons/<year>/week-NN.csv` — one file per week: entry, pick slot, team, and the
+  timestamp the pick was submitted.
+- `seasons/<year>/admin-changes.csv` — every time an admin changed a pick on someone's
+  behalf: the entry, slot, old team → new team, when it happened, and whether the change
+  came **after kickoff** (the pool allows rare commissioner corrections; this makes each
+  one public). The reason for the change and who made it stay in the pool's internal
+  audit log — this file records only *what* changed and *when*.
+- `seasons/<year>/HEAD.md` — a summary page carrying the head hash of the site's
+  internal tamper-evident audit chain.
+
 A pick appears here once its game kicks off — the same moment it becomes visible in the
 app, never before. Since games kick off in waves (Thursday night, Sunday early, Sunday
 late, Sunday night, Monday night), each week's file grows across the week: every wave of
 reveals lands as its own commit, usually within minutes of kickoff. The commit history
-shows exactly which picks were public at each point. Unrevealed picks stay secret,
-exactly as in the pool itself.
+shows exactly which picks were public at each point. The same rule applies to admin
+changes — one is listed only once the teams involved have kicked off. Unrevealed picks
+stay secret, exactly as in the pool itself.
 
 ## Why this exists
 
@@ -26,6 +37,8 @@ database an insider could edit. This repo is the outside witness:
 
 If a pick were altered after kickoff — by a member, or by an admin with database
 access — it would contradict the history already published here for everyone to see.
+Admin corrections aren't hidden either — every one is listed in `admin-changes.csv`,
+timestamped and flagged when it happened after kickoff.
 
 ## Reading the data
 

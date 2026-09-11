@@ -10,5 +10,5 @@ Revealed so far: week 1 (64).
 Admin pick changes published: 0 (see `admin-changes.csv` —
 every admin override of a pick slot, listed once the teams involved have kicked off).
 
-Audit-chain head (the app's internal tamper-evident change log): `64faceb6d4a4595b5facc365ff49dafe25772c0d6b4c11c74efbe91c277236df`
-(event #3413).
+Audit-chain head (the app's internal tamper-evident change log): `6814e5209eece2b6fcb8e38eb693e8be1e9e55109ac45c008e8bdd19cd4cc1ac`
+(event #3424).

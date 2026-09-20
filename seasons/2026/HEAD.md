@@ -6,9 +6,9 @@ server at each score sync; nothing is ever hand-edited. Because this history is 
 and content-addressed, a pick cannot be quietly changed after its kickoff — by anyone,
 the commissioner included — without contradicting this record.
 
-Revealed so far: week 1 (2775), week 2 (34).
+Revealed so far: week 1 (2775), week 2 (1678).
 Admin pick changes published: 0 (see `admin-changes.csv` —
 every admin override of a pick slot, listed once the teams involved have kicked off).
 
-Audit-chain head (the app's internal tamper-evident change log): `420d22021fd457338e8573015b0d569fbcb01238decbacab7d49a3f7effe140a`
-(event #8298).
+Audit-chain head (the app's internal tamper-evident change log): `1ff7b74d0ac354f47b7b6007eba9e25775ceef3eeadee63ffbbef67762f630db`
+(event #8629).

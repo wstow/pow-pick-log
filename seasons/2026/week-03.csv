@@ -92,6 +92,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Danny Heldt 1,3A,KC,2026-09-22T01:37:30Z
 1,Honeycutt 1,3A,DET,2026-09-22T22:58:18Z
 1,Nube 1,3A,DET,2026-09-22T12:18:50Z
+1,Alex Allen 1,3A,DEN,2026-09-24T02:23:48Z
 1,Python1 1,3A,GB,2026-09-22T16:59:25Z
 1,Jeri Lyn 1,3A,SF,2026-09-22T02:19:26Z
 1,ThisIsTheYear 1,3A,KC,2026-09-27T16:10:28Z
@@ -685,6 +686,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,enerson413 1,3A,KC,2026-09-24T00:33:22Z
 1,Showtime 1,3A,TEN,2026-09-27T16:26:54Z
 1,Papa Funk 1 1,3A,SEA,2026-09-27T11:11:54Z
+1,AngelaW-K 1,3A,DEN,2026-09-20T16:37:26Z
 1,Vikingstothebowl 1,3A,GB,2026-09-24T23:11:38Z
 1,Yosemite Sam 1,3A,DET,2026-09-26T18:29:50Z
 1,Knucklesdeep 1,3A,KC,2026-09-26T22:46:40Z
@@ -727,6 +729,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,MadChunkyMonkey 1,3A,BUF,2026-09-27T14:14:57Z
 1,Quinn13 1,3A,NO,2026-09-23T15:48:32Z
 1,Mookie 1,3A,BUF,2026-09-24T17:06:29Z
+1,Evo 4G63 Lover 1,3A,LAR,2026-09-27T22:18:11Z
 1,JM 1,3A,BUF,2026-09-22T01:12:48Z
 1,Brainjw 1,3A,CAR,2026-09-25T17:06:20Z
 1,Jesse Martin 1,3A,KC,2026-09-27T01:55:18Z
@@ -1195,6 +1198,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 2,Proasscoach 2,3A,KC,2026-09-22T12:16:06Z
 2,LukeC 2,3A,ARI,2026-09-27T18:39:56Z
 2,Angiegirl 2,3A,KC,2026-09-21T07:27:55Z
+2,Evo 4G63 Lover 2,3A,DEN,2026-09-27T22:18:20Z
 2,JM 2,3A,DET,2026-09-22T01:13:12Z
 2,Brainjw 2,3A,DET,2026-09-25T17:06:28Z
 2,Jesse Martin 2,3A,SEA,2026-09-27T01:55:38Z
@@ -1240,6 +1244,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,.PALMER 3,3A,SF,2026-09-21T17:32:00Z
 3,DCloud 3,3A,MIA,2026-09-24T16:18:45Z
 3,iwasatthesswift-kelcewedding 3,3A,KC,2026-09-24T01:34:57Z
+3,Lep 3,3A,DEN,2026-09-24T17:36:42Z
 3,Scott Brofman 3,3A,CAR,2026-09-23T14:50:23Z
 3,CGully 3,3A,DET,2026-09-23T21:08:00Z
 3,Tamasi 3,3A,NO,2026-09-21T19:08:14Z
@@ -1346,6 +1351,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,J H 3,3A,SF,2026-09-27T19:32:04Z
 3,Team Green 3,3A,DET,2026-09-21T13:31:17Z
 3,jfkhyland 3,3A,GB,2026-09-24T02:35:27Z
+3,Jon Swanson 3,3A,DEN,2026-09-26T15:39:00Z
 3,Tolly 3,3A,SEA,2026-09-25T03:20:45Z
 3,gp-23 3,3A,ARI,2026-09-24T17:22:35Z
 3,GABE 3,3A,MIN,2026-09-24T00:28:21Z
@@ -1895,6 +1901,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 5,Travis Swift 5,3A,KC,2026-09-22T18:01:24Z
 5,RevengeoftheMahomes 5,3A,SF,2026-09-25T22:12:40Z
 5,Ryan S 5,3A,SEA,2026-09-25T23:30:42Z
+5,Mash Buttatoes 5,3A,LAR,2026-09-24T23:22:07Z
 5,Titzer 5,3A,SEA,2026-09-24T20:45:19Z
 5,G unit 5,3A,NO,2026-09-22T02:20:50Z
 5,TyshawnLebron 5,3A,KC,2026-09-23T16:44:25Z
@@ -2177,6 +2184,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 8,Liamo 8,3A,SF,2026-09-25T05:47:55Z
 8,Tolly 8,3A,SEA,2026-09-25T03:20:45Z
 8,slyoss 8,3A,KC,2026-09-27T04:54:32Z
+8,A.Lewis 8,3A,LAR,2026-09-23T04:29:19Z
 8,Mal 8,3A,SEA,2026-09-24T03:25:10Z
 8,ryan miller 8,3A,JAX,2026-09-27T07:22:48Z
 8,BillsMafiaJA17 8,3A,NO,2026-09-21T02:08:16Z
@@ -2337,6 +2345,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 10,Liamo 10,3A,DET,2026-09-25T05:48:29Z
 10,Tolly 10,3A,KC,2026-09-23T03:52:46Z
 10,slyoss 10,3A,NYG,2026-09-27T04:56:09Z
+10,A.Lewis 10,3A,LAR,2026-09-23T04:30:42Z
 10,Mal 10,3A,SEA,2026-09-24T03:12:12Z
 10,ryan miller 10,3A,NYG,2026-09-27T07:24:00Z
 10,BillsMafiaJA17 10,3A,SEA,2026-09-23T16:40:21Z

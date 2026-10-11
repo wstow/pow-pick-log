@@ -376,6 +376,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,SHAKE -N- BAKE 1,5A,HOU,2026-10-08T01:12:35Z
 1,TonerPirates 1,5A,HOU,2026-10-08T01:13:42Z
 1,Pinky 1,5A,HOU,2026-10-08T01:16:43Z
+1,Buffalo Bills# 1,5A,DEN,2026-10-08T01:16:43Z
 1,Buffalo Bille#2 1,5A,HOU,2026-10-08T01:16:58Z
 1,Buffalo Bille#4 1,5A,DAL,2026-10-08T01:17:36Z
 1,BIGOLD 1,5A,CIN,2026-10-08T01:18:08Z
@@ -399,6 +400,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,The Kommish #1 1,5A,DAL,2026-10-08T17:49:26Z
 1,The Kommish #2 1,5A,HOU,2026-10-08T03:15:59Z
 1,Cryan 1,5A,DAL,2026-10-08T03:24:08Z
+1,Savvy and the Flea Flickers 1,5A,DEN,2026-10-08T03:31:19Z
 1,Mills78 1,5A,DAL,2026-10-08T03:32:22Z
 1,martens 22 1,5A,DAL,2026-10-08T04:14:37Z
 1,martens22 1,5A,JAX,2026-10-08T04:15:13Z
@@ -437,6 +439,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Que 1,5A,DAL,2026-10-08T15:11:20Z
 1,Jonathan Rosen 1,5A,HOU,2026-10-08T15:14:38Z
 1,605-4-Life 1,5A,TB,2026-10-08T15:37:49Z
+1,Fighting Irish Girl 1,5A,DEN,2026-10-08T15:52:34Z
 1,Scoots28 1,5A,WSH,2026-10-11T14:49:40Z
 1,Chris Mrnak 1,5A,DAL,2026-10-08T16:12:59Z
 1,McGee1 1,5A,DAL,2026-10-08T17:18:47Z
@@ -524,6 +527,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Gaboni 2 1,5A,CIN,2026-10-09T16:08:46Z
 1,Ryan S 1,5A,HOU,2026-10-09T17:01:09Z
 1,Puffprincess 👑 1,5A,CIN,2026-10-09T18:03:35Z
+1,Tennesseeriverballhawk 1,5A,DEN,2026-10-09T18:22:20Z
 1,GI 1,5A,HOU,2026-10-09T19:42:07Z
 1,nopack25 1,5A,HOU,2026-10-09T19:47:41Z
 1,Daughter 1,5A,HOU,2026-10-09T20:12:41Z
@@ -538,6 +542,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Chrosho2 1,5A,LV,2026-10-10T00:00:55Z
 1,Bob & Jackie 1,5A,HOU,2026-10-10T02:35:00Z
 1,CJ2 1,5A,CIN,2026-10-10T02:44:03Z
+1,MyMercedes 1,5A,DEN,2026-10-10T03:04:44Z
 1,RobbyMcRobface 1,5A,JAX,2026-10-10T11:53:33Z
 1,RudyIrish 1,5A,HOU,2026-10-10T12:02:09Z
 1,Adam 1 1,5A,MIN,2026-10-10T13:55:28Z
@@ -546,6 +551,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Smallz 1,5A,HOU,2026-10-10T14:34:11Z
 1,DirtyBirdie 1,5A,HOU,2026-10-10T15:30:57Z
 1,Jake Bazella 1,5A,WSH,2026-10-10T16:07:01Z
+1,PennyB 1,5A,DEN,2026-10-10T18:25:04Z
 1,4lilbob 1,5A,CIN,2026-10-10T18:29:51Z
 1,Jacob Kost 1,5A,HOU,2026-10-10T18:56:10Z
 1,Patriots1 1,5A,HOU,2026-10-10T19:50:34Z
@@ -579,6 +585,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Derek K 1,5A,HOU,2026-10-11T05:57:14Z
 1,Tatarekt 1,5A,JAX,2026-10-11T06:17:27Z
 1,Dennis/SheikJointPick 1,5A,CIN,2026-10-11T06:34:36Z
+1,Troy Michaels 1,5A,DEN,2026-10-11T07:13:27Z
 1,ryan miller 1,5A,JAX,2026-10-11T07:30:19Z
 1,The Gambit 1,5A,JAX,2026-10-11T07:37:48Z
 1,The Algorithm 1,5A,HOU,2026-10-11T16:53:33Z
@@ -606,6 +613,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Henry Odens 1,5A,NYJ,2026-10-11T14:09:38Z
 1,Stephenjm 1,5A,HOU,2026-10-11T14:13:02Z
 1,Cheryl 1,5A,CIN,2026-10-11T14:13:34Z
+1,joe shred 1,5A,LAC,2026-10-11T14:16:55Z
 1,Rsmart 1,5A,PIT,2026-10-11T14:34:51Z
 1,Show Pony 1,5A,HOU,2026-10-11T14:49:45Z
 1,Richard Olson 1,5A,HOU,2026-10-11T14:57:47Z
@@ -632,6 +640,10 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,CharlieOdens 1,5A,HOU,2026-10-11T16:46:17Z
 1,Skoaldier 1,5A,HOU,2026-10-11T16:49:56Z
 1,Collin C 1,5A,CIN,2026-10-11T16:50:24Z
+1,BLURRS 1,5A,DEN,2026-10-11T17:18:19Z
+1,Liamo 1,5A,DEN,2026-10-11T17:46:44Z
+1,JR MCGINTY 1,5A,DEN,2026-10-11T19:07:19Z
+1,Too Much Estrogen 1,5A,DEN,2026-10-11T19:17:33Z
 2,Mitch's Maniacs 2,5A,JAX,2026-10-08T12:58:14Z
 2,AndrewL 2,5A,WSH,2026-10-07T15:41:30Z
 2,tchristl 2,5A,CIN,2026-09-28T13:48:11Z
@@ -805,6 +817,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 2,.ZF 2,5A,NE,2026-10-07T14:29:07Z
 2,Original Stephen A 2,5A,DAL,2026-10-07T14:50:07Z
 2,Karomaro 2,5A,HOU,2026-10-07T15:03:01Z
+2,kitten 2,5A,DEN,2026-10-07T15:22:07Z
 2,Mike Z. 2,5A,TB,2026-10-07T15:36:38Z
 2,.PALMER 2,5A,DAL,2026-10-07T15:49:58Z
 2,The Modern Day Maharaja 2,5A,TB,2026-10-07T16:13:50Z
@@ -914,6 +927,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 2,yogi 1 2,5A,DAL,2026-10-08T17:24:24Z
 2,Awes 2,5A,DAL,2026-10-08T17:27:20Z
 2,JJ’s Winners 1 2,5A,DAL,2026-10-08T17:32:33Z
+2,Dan Burnstine 2,5A,DEN,2026-10-08T17:38:51Z
 2,-EV. 2,5A,DAL,2026-10-08T17:44:50Z
 2,Fielder 2,5A,CLE,2026-10-08T18:09:19Z
 2,GopherNation! 2,5A,DAL,2026-10-08T18:20:00Z
@@ -958,6 +972,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 2,JoeDemyLocks 2,5A,NE,2026-10-09T03:56:44Z
 2,Brady G 2,5A,HOU,2026-10-09T14:00:04Z
 2,TXrunningman 2,5A,CIN,2026-10-09T14:06:12Z
+2,Deontez 2,5A,DEN,2026-10-09T15:06:34Z
 2,Garner 2,5A,HOU,2026-10-09T15:17:40Z
 2,Ryan S 2,5A,CIN,2026-10-09T17:01:20Z
 2,Tennesseeriverballhawk 2,5A,HOU,2026-10-09T18:21:51Z
@@ -1011,6 +1026,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 2,laruffa 2,5A,HOU,2026-10-11T13:41:38Z
 2,Vodka Sota 2,5A,HOU,2026-10-11T14:01:27Z
 2,Stephenjm 2,5A,CIN,2026-10-11T14:13:05Z
+2,Rsmart 2,5A,DEN,2026-10-11T14:38:53Z
 2,Show Pony 2,5A,HOU,2026-10-11T14:49:47Z
 2,Jon Swanson 2,5A,PIT,2026-10-11T14:56:22Z
 2,Richard Olson 2,5A,CIN,2026-10-11T14:57:50Z
@@ -1028,6 +1044,9 @@ entry_number,entry_name,slot,team,submitted_at_utc
 2,Skoaldier 2,5A,HOU,2026-10-11T16:46:36Z
 2,Showtime 2,5A,HOU,2026-10-11T16:54:53Z
 2,Evanhanz 2,5A,CIN,2026-10-11T16:56:51Z
+2,Jordan Dvorak 2,5A,DEN,2026-10-11T17:07:38Z
+2,BERP 2,5A,DEN,2026-10-11T17:16:49Z
+2,BLURRS 2,5A,DEN,2026-10-11T17:18:41Z
 3,James @Oakside 3,5A,CIN,2026-09-08T20:37:23Z
 3,Rhodekill 3,5A,TB,2026-10-05T18:10:12Z
 3,Skooter 3,5A,NE,2026-09-21T03:13:29Z
@@ -1124,6 +1143,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,destiny01 3,5A,WSH,2026-10-06T19:01:40Z
 3,lance manion 3,5A,DAL,2026-10-06T19:15:03Z
 3,CWHITE 3,5A,DAL,2026-10-06T19:25:47Z
+3,Danny Heldt 3,5A,DEN,2026-10-06T19:26:02Z
 3,Dobolicious 3,5A,CIN,2026-10-06T20:08:28Z
 3,Redgem 3,5A,WSH,2026-10-06T20:10:02Z
 3,WZKB 3,5A,DAL,2026-10-06T20:50:51Z
@@ -1136,6 +1156,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,Coates55 3,5A,DAL,2026-10-07T02:20:11Z
 3,Lay The Points 3,5A,CIN,2026-10-07T02:31:01Z
 3,BS 3,5A,DAL,2026-10-07T02:41:20Z
+3,Chronos 3,5A,DEN,2026-10-07T03:00:07Z
 3,WildernessNinjas 3,5A,DAL,2026-10-07T03:22:00Z
 3,Sidders 3,5A,TB,2026-10-07T04:48:20Z
 3,Oki 3,5A,WSH,2026-10-11T12:45:24Z
@@ -1164,6 +1185,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,CaliB 3,5A,DAL,2026-10-07T17:41:48Z
 3,bprochaska 3,5A,TB,2026-10-07T18:38:25Z
 3,Alex Allen 3,5A,DAL,2026-10-07T18:50:17Z
+3,gp-23 3,5A,DEN,2026-10-07T19:21:34Z
 3,Greenlun 3,5A,DAL,2026-10-07T19:50:17Z
 3,Grandview Zebras 3,5A,HOU,2026-10-07T20:26:57Z
 3,Bennyboy 3,5A,CIN,2026-10-07T20:32:51Z
@@ -1216,6 +1238,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,Luke K 3,5A,CIN,2026-10-08T11:46:41Z
 3,PB -  jd/ct 3,5A,DAL,2026-10-08T12:15:52Z
 3,Kraigisley 3,5A,DAL,2026-10-08T12:23:33Z
+3,Honolulu Blues 3,5A,DEN,2026-10-08T12:45:13Z
 3,Val Estrada 3,5A,HOU,2026-10-08T12:48:11Z
 3,Bottom Feeder 3,5A,HOU,2026-10-08T21:17:18Z
 3,Psorensen 3,5A,MIA,2026-10-08T14:44:05Z
@@ -1281,6 +1304,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,BDvorak 3,5A,CIN,2026-10-11T01:32:03Z
 3,Nschram 3,5A,CIN,2026-10-11T01:32:37Z
 3,Kim 3,5A,WSH,2026-10-11T01:33:38Z
+3,FredG 3,5A,LAC,2026-10-11T02:36:17Z
 3,TommyGun 3,5A,HOU,2026-10-11T12:58:14Z
 3,Jokes Sean Can't Take: 3,5A,MIA,2026-10-11T03:18:06Z
 3,Tatarekt 3,5A,CIN,2026-10-11T06:17:12Z
@@ -1313,6 +1337,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,CJ2 3,5A,PIT,2026-10-11T16:15:59Z
 3,Tyler O 3,5A,HOU,2026-10-11T16:29:14Z
 3,Showtime 3,5A,CIN,2026-10-11T16:55:00Z
+3,Terhune 3,5A,DEN,2026-10-11T17:40:16Z
 4,Mitch's Maniacs 4,5A,PHI,2026-10-06T13:39:25Z
 4,Skooter 4,5A,TB,2026-10-07T02:10:55Z
 4,Tim The Enchanter 4,5A,DAL,2026-09-29T19:05:48Z
@@ -1327,6 +1352,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 4,iwasatthesswift-kelcewedding 4,5A,CIN,2026-10-05T14:28:10Z
 4,Travis K 4,5A,DAL,2026-10-05T14:39:23Z
 4,JEnerson 4,5A,DAL,2026-10-05T14:39:58Z
+4,RabidGophers 4,5A,LAC,2026-10-05T15:30:05Z
 4,Balls-less Walz 4,5A,DAL,2026-10-05T15:36:23Z
 4,FishKing17 4,5A,PHI,2026-10-11T12:41:27Z
 4,bjoachim 4,5A,DAL,2026-10-05T15:57:44Z
@@ -1495,10 +1521,13 @@ entry_number,entry_name,slot,team,submitted_at_utc
 4,Matty Ice 4,5A,NYJ,2026-10-11T15:36:18Z
 4,Show me your TDs 4,5A,HOU,2026-10-11T15:42:32Z
 4,BigCat#30 - 4,5A,CIN,2026-10-11T16:11:57Z
+4,Zweber 4,5A,DEN,2026-10-11T16:07:35Z
 4,Old Gregg 4,5A,NYJ,2026-10-11T16:13:40Z
 4,Tyler O 4,5A,CIN,2026-10-11T16:29:19Z
 4,Dave LaFond 4,5A,HOU,2026-10-11T16:40:56Z
 4,Showtime 4,5A,CLE,2026-10-11T16:50:36Z
+4,BERP 4,5A,DEN,2026-10-11T17:17:14Z
+4,BLURRS 4,5A,DEN,2026-10-11T17:19:03Z
 5,Mitch's Maniacs 5,5A,TB,2026-10-04T23:28:30Z
 5,James @Oakside 5,5A,WSH,2026-09-08T20:37:01Z
 5,Skidmark 5,5A,CLE,2026-09-15T20:37:04Z
@@ -1715,6 +1744,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 6,Grandview Zebras 6,5A,DAL,2026-10-07T20:27:38Z
 6,Bennyboy 6,5A,HOU,2026-10-07T20:32:19Z
 6,Karl Havoc 6,5A,JAX,2026-10-07T20:45:16Z
+6,Shores 6,5A,DEN,2026-10-07T20:57:52Z
 6,Morning Chuba 6,5A,DAL,2026-10-07T21:38:06Z
 6,Fletch 6,5A,NE,2026-10-07T22:52:59Z
 6,The Tavern 6,5A,CIN,2026-10-07T22:55:12Z
@@ -1752,6 +1782,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 6,laruffa 6,5A,HOU,2026-10-11T13:42:55Z
 6,BigCat#30 - 6,5A,HOU,2026-10-11T16:02:07Z
 6,Old Gregg 6,5A,WSH,2026-10-11T16:14:21Z
+6,Troy Michaels 6,5A,DEN,2026-10-11T16:34:51Z
 6,Dave LaFond 6,5A,CIN,2026-10-11T16:41:08Z
 7,JEG#1 7,5A,TB,2026-10-06T13:06:20Z
 7,Tony G 7,5A,JAX,2026-10-09T22:00:06Z
@@ -1800,6 +1831,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 7,darcyvikinggirl 7,5A,DAL,2026-10-08T00:35:32Z
 7,Gina Nelson 7,5A,WSH,2026-10-08T01:50:09Z
 7,slyoss 7,5A,CLE,2026-10-08T02:19:02Z
+7,Mal 7,5A,DEN,2026-10-08T02:26:17Z
 7,Berns Bags and Friends 7,5A,DAL,2026-10-08T02:54:27Z
 7,JohnD 7,5A,HOU,2026-10-08T03:53:38Z
 7,Eastside 17 7,5A,JAX,2026-10-08T04:15:02Z
@@ -1831,6 +1863,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 7,Old Gregg 7,5A,CIN,2026-10-11T16:14:29Z
 7,Troy Michaels 7,5A,MIN,2026-10-11T16:36:18Z
 7,Showtime 7,5A,HOU,2026-10-11T16:52:51Z
+7,Jordan Dvorak 7,5A,DEN,2026-10-11T17:13:34Z
 8,Tony G 8,5A,JAX,2026-10-05T00:23:32Z
 8,OMB 8,5A,DAL,2026-10-05T01:29:19Z
 8,Schippy 8,5A,CIN,2026-10-05T06:09:08Z
@@ -1965,6 +1998,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 9,BigCat#30 - 9,5A,HOU,2026-10-11T16:12:44Z
 9,Old Gregg 9,5A,CIN,2026-10-11T16:14:37Z
 9,Troy Michaels 9,5A,NYG,2026-10-11T16:38:40Z
+9,Liamo 9,5A,DEN,2026-10-11T17:47:22Z
 10,Tony G 10,5A,NYG,2026-10-05T00:23:40Z
 10,Larry Hess 10,5A,HOU,2026-10-05T00:52:45Z
 10,OMB 10,5A,DAL,2026-10-05T01:23:22Z
@@ -2006,6 +2040,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 10,darcyvikinggirl 10,5A,DAL,2026-10-08T00:35:43Z
 10,Gina Nelson 10,5A,CIN,2026-10-08T01:47:45Z
 10,slyoss 10,5A,JAX,2026-10-08T02:20:48Z
+10,Mal 10,5A,DEN,2026-10-08T02:38:25Z
 10,A.K.A. King Gio 10,5A,PIT,2026-10-08T05:41:51Z
 10,A.Lewis 10,5A,MIN,2026-10-08T06:26:29Z
 10,Muskhogeans 10,5A,DAL,2026-10-08T11:50:16Z
@@ -2033,10 +2068,12 @@ entry_number,entry_name,slot,team,submitted_at_utc
 10,Old Gregg 10,5A,WSH,2026-10-11T16:14:52Z
 10,Troy Michaels 10,5A,NE,2026-10-11T16:38:20Z
 10,Showtime 10,5A,WSH,2026-10-11T16:54:22Z
+10,Liamo 10,5A,DEN,2026-10-11T17:47:54Z
 11,Number 9 11,5A,LV,2026-10-04T20:48:18Z
 11,AndrewL 11,5A,WSH,2026-10-07T15:42:00Z
 11,FishKing17 11,5A,CIN,2026-10-05T15:36:36Z
 11,Skidmark 11,5A,CLE,2026-10-08T16:18:05Z
+11,Shot to the Chops 11,5A,DEN,2026-10-06T14:24:51Z
 11,Dobolicious 11,5A,WSH,2026-10-06T20:10:30Z
 11,Stow 11,5A,WSH,2026-10-07T02:19:05Z
 11,Tolly 11,5A,JAX,2026-10-07T02:19:05Z
@@ -2058,6 +2095,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 11,JEG#1 11,5A,MIN,2026-10-08T22:34:48Z
 11,Homeslice 11,5A,LV,2026-10-08T23:24:40Z
 11,bjoachim 11,5A,HOU,2026-10-09T06:49:08Z
+11,Witzee 11,5A,DEN,2026-10-10T15:07:21Z
 11,BossHogg 11,5A,JAX,2026-10-11T11:36:45Z
 11,sweat hogs 11,5A,JAX,2026-10-11T11:37:49Z
 12,Number 9 12,5A,IND,2026-10-04T20:47:58Z
@@ -2114,6 +2152,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 14,BillsMafiaJA17 14,5A,NYG,2026-10-05T16:42:32Z
 14,Skidmark 14,5A,CIN,2026-10-06T12:38:36Z
 14,Shot to the Chops 14,5A,DAL,2026-10-06T14:25:31Z
+14,Dobolicious 14,5A,DEN,2026-10-06T20:10:57Z
 14,Tolly 14,5A,DAL,2026-10-07T02:19:05Z
 14,Oki 14,5A,HOU,2026-10-11T12:46:46Z
 14,Titzer 14,5A,DAL,2026-10-07T13:05:27Z
@@ -2242,6 +2281,11 @@ entry_number,entry_name,slot,team,submitted_at_utc
 24,BigCat#30 - 24,5A,DAL,2026-10-08T23:38:27Z
 25,BigCat#30 - 25,5A,DAL,2026-10-08T23:38:29Z
 25,BossHogg 25,5A,JAX,2026-10-11T11:37:14Z
+26,BigCat#30 - 26,5A,DEN,2026-10-11T16:23:47Z
+27,BigCat#30 - 27,5A,DEN,2026-10-11T16:23:51Z
+28,BigCat#30 - 28,5A,DEN,2026-10-11T16:23:54Z
+29,BigCat#30 - 29,5A,DEN,2026-10-11T16:23:56Z
+30,BigCat#30 - 30,5A,DEN,2026-10-11T16:23:59Z
 31,BigCat#30 - 31,5A,NE,2026-10-11T16:28:54Z
 32,BigCat#30 - 32,5A,NE,2026-10-11T16:28:59Z
 33,BigCat#30 - 33,5A,NE,2026-10-11T16:29:02Z

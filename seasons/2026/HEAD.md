@@ -10,5 +10,5 @@ Revealed so far: week 1 (2775), week 2 (2765), week 3 (2760), week 4 (2747), wee
 Admin pick changes published: 0 (see `admin-changes.csv` —
 every admin override of a pick slot, listed once the teams involved have kicked off).
 
-Audit-chain head (the app's internal tamper-evident change log): `3779bb38a59d405f8d53d61f0dfef3230ed25dfdfd17d06c9f8f6e96ac51ebcf`
-(event #27130).
+Audit-chain head (the app's internal tamper-evident change log): `375b4d4441f9501b1ebba155467a08db9d5115bfb528441894ab213107e4535a`
+(event #27131).

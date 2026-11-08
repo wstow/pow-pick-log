@@ -1,4 +1,5 @@
 entry_number,entry_name,slot,team,submitted_at_utc
+1,Cypherhawks 1,9A,ATL,2026-10-20T23:50:28Z
 1,Fish jr 2 1,9A,BAL,2026-11-02T04:59:11Z
 1,Team Green 1,9A,JAX,2026-11-02T13:34:46Z
 1,Danny Heldt 1,9A,JAX,2026-11-02T16:21:50Z
@@ -14,9 +15,11 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Aaron W 1,9A,JAX,2026-11-04T22:56:00Z
 1,SMU 1,9A,JAX,2026-11-05T03:21:03Z
 1,Mike Tango 1,9A,JAX,2026-11-05T20:28:46Z
+1,Eric Sexton 1,9A,CIN,2026-11-05T23:54:51Z
 1,Mark O 1,9B,JAX,2026-09-23T18:28:03Z
 1,Spoonman 1,9B,JAX,2026-11-03T03:58:42Z
 1,Megs 1,9B,JAX,2026-11-05T13:18:43Z
+2,Fairway Ridge 2,9A,CIN,2026-11-03T12:22:31Z
 2,billT 2,9A,JAX,2026-11-03T17:29:21Z
 2,BCAT 2,9A,JAX,2026-11-03T19:38:04Z
 2,Ryan S 2,9A,JAX,2026-11-04T18:56:18Z
@@ -29,8 +32,11 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,Lay The Points 3,9A,JAX,2026-11-03T17:19:36Z
 3,Neums 3,9A,JAX,2026-11-03T19:31:29Z
 3,SMU 3,9A,JAX,2026-11-05T03:21:42Z
+3,-EV. 3,9B,CIN,2026-11-06T05:40:59Z
 4,Jahoobies 4,9A,JAX,2026-11-04T19:34:07Z
+4,Yosemite Sam 4,9B,ATL,2026-11-05T01:33:42Z
 4,Dave LaFond 4,9B,JAX,2026-11-05T21:24:06Z
+4,TJB 4,9B,ATL,2026-11-05T23:24:15Z
 5,MyMercedes 5,9A,JAX,2026-11-03T07:38:28Z
 5,TyshawnLebron 5,9A,JAX,2026-11-03T20:27:52Z
 5,Gina Nelson 5,9A,JAX,2026-11-06T00:01:16Z
@@ -44,6 +50,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 8,A.K.A. King Gio 8,9A,JAX,2026-11-05T19:11:49Z
 8,Savage outdoors 8,9B,JAX,2026-11-03T14:45:29Z
 9,Shores 9,9A,JAX,2026-11-03T05:19:48Z
+9,Proasscoach 9,9B,ATL,2026-11-04T04:57:06Z
 10,Grandview Zebras 10,9A,JAX,2026-11-03T12:40:50Z
 10,Dave LaFond 10,9A,JAX,2026-11-05T23:58:25Z
 11,Gina Nelson 11,9A,JAX,2026-11-06T00:03:54Z
@@ -60,3 +67,4 @@ entry_number,entry_name,slot,team,submitted_at_utc
 19,Stow 19,9A,JAX,2026-11-04T20:11:13Z
 20,Tolly 20,9A,JAX,2026-11-03T13:55:13Z
 20,Homeslice 20,9A,JAX,2026-11-06T01:12:31Z
+24,BigCat#30 - 24,9A,CIN,2026-11-08T14:29:50Z

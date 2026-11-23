@@ -101,6 +101,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 1,Dave LaFond 1,11B,HOU,2026-11-15T16:58:39Z
 1,Spoonman 1,11B,CHI,2026-11-03T04:02:48Z
 1,Keith Oerther 1,11B,DEN,2026-11-03T15:21:26Z
+1,Fish jr 2 1,11B,MIN,2026-11-11T00:56:00Z
 1,Jimmy McNeil 1,11B,NYJ,2026-11-11T03:31:54Z
 1,Kristi Klawitter 1,11B,LAC,2026-11-12T03:35:01Z
 1,Mike Tango 1,11B,KC,2026-11-15T23:50:08Z
@@ -241,6 +242,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 2,Shores 2,11B,DAL,2026-11-18T18:04:41Z
 2,NJV 2,11B,CHI,2026-11-18T20:12:25Z
 2,bprochaska 2,11B,DET,2026-11-18T21:01:44Z
+2,Emily 2,11B,MIN,2026-11-18T23:52:04Z
 2,Jake’s Irish 2,11B,CHI,2026-11-19T01:19:59Z
 2,The Hip 2,11B,TB,2026-11-19T01:22:34Z
 2,Sarah Fazendin 2,11B,BUF,2026-11-19T02:05:48Z
@@ -316,6 +318,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 3,Travis Swift 3,11B,CAR,2026-11-20T16:14:40Z
 3,Gina Nelson 3,11B,DET,2026-11-17T03:53:29Z
 3,Number 9 3,11B,BAL,2026-11-17T04:46:50Z
+3,Proasscoach 3,11B,SF,2026-11-17T04:58:23Z
 3,Lay The Points 3,11B,CHI,2026-11-17T11:35:05Z
 3,TG94 3,11B,DEN,2026-11-17T12:49:09Z
 3,Skooter 3,11B,DAL,2026-11-17T17:47:39Z
@@ -614,6 +617,7 @@ entry_number,entry_name,slot,team,submitted_at_utc
 14,Stow 14,11A,DEN,2026-11-17T17:05:01Z
 14,Oki 14,11A,DEN,2026-11-21T18:51:08Z
 14,One Pump Love & Dump 14,11A,LAC,2026-11-18T23:36:45Z
+14,Tolly 14,11B,SF,2026-11-20T14:46:25Z
 14,Oki 14,11B,BUF,2026-11-17T20:34:02Z
 14,One Pump Love & Dump 14,11B,CHI,2026-11-18T23:36:55Z
 15,Skidmark 15,11A,LAC,2026-11-18T18:31:01Z
